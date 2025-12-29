@@ -1,0 +1,11 @@
+Fast api는 python으로 간단하고 빠르게 rest api를 만들기 위한 wen framework임
+
+pydantic 기반으로 속도가 빠름
+swagger같은 기능을 제공
+async같은 비동기 지원으로 동시 요청 처리에 강하다
+
+백엔드 서버 만들 때 좋고 성능 속도 둘 다 중요할 때 사용
+Flask보다 적은 코드로 같은 기능 만들기 가능
+black 포멧팅 도구로 코드 형식을 맞춰줌
+poetry venv, pip, requirements.txt 대체함 , 가상환경 자동 생성
+ruff 코드 오류 탐지
